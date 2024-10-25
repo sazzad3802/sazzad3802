@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad3802" alt="sazzad3802" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shazzadkanon" target="blank"><img src="https://img.shields.io/twitter/follow/shazzadkanon?logo=twitter&style=for-the-badge" alt="shazzadkanon" /></a> </p>
-
 - 🔭 I’m currently working on [Openmrs](https://github.com/openmrs/openmrs-contrib-android-client)
 
 - 👨‍💻 All of my projects are available at [sazzad3802.github.io](sazzad3802.github.io)
