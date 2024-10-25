@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad3802&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad3802" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad3802" alt="sazzad3802" /></a> </p>
-
 - 🔭 I’m currently working on [Openmrs](https://github.com/openmrs/openmrs-contrib-android-client)
 
 - 👨‍💻 All of my projects are available at [sazzad3802.github.io](sazzad3802.github.io)
